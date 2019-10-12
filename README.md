@@ -1,6 +1,6 @@
 # varta
 A Socket.io application with rooms capacity
 
-Happy Chatting!
+Enjoy Chatting!!
 
 # https://vaartaa.herokuapp.com/
